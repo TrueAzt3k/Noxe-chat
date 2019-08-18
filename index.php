@@ -15,7 +15,7 @@
 	</div>
 	<div class="menu">
 		<a href="?p=principal">Principal</a>
-		<a href="?p=login">Iniciar Sesion</a>
+		<i class="material-icons md-40">account_box</i><a href="?p=login">Iniciar Sesion</a>
         <a href="?p=signin">Registrarse</a>
     </div>
 
